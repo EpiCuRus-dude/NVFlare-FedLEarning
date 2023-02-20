@@ -1,0 +1,10 @@
+{
+  "learning_rate": 1e-4,
+  "validation_freq" : 1,
+  "fedproxloss_mu": 0.0,
+  "cache_dataset": 0.0,
+  "data_list_json_file": "config/data_list_PETCT_all.json",
+  "batch_of_train": 1,
+  "batch_of_val": 1,
+  "dataset_folder_name": "BTCV"
+}
